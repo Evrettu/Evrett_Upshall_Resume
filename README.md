@@ -1,6 +1,6 @@
 # Evrett_Upshall_Resume
 
-Links to projects that I have worked on with as a team member:
+Links to projects that I have worked on as a team member:
 
 1. Arcade game
 https://chubbers.itch.io/slime-skirmish
